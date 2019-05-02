@@ -21,7 +21,7 @@ public class Main {
 //        LOGGER.info("Info Message Logged !!!");
 //        LOGGER.fatal("This is an Fatal message");
         //LOGGER.error("Error Message Logged !!!", new NullPointerException("NullError"));
-        System.out.println("Completed!!");
+//        System.out.println("Completed!!");
 
 
     }

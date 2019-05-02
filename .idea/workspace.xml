@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="170c55ad-220f-4bd3-a132-a8b8f95a3b3e" name="Default Changelist" comment="" />
+    <list default="true" id="170c55ad-220f-4bd3-a132-a8b8f95a3b3e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eBricks/log4jtask/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eBricks/log4jtask/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eBricks/log4jtask/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="289">
+              <caret line="23" column="44" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -107,6 +109,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -115,10 +120,10 @@
         <option value="$PROJECT_DIR$/src/main/resources/log4j2.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/eBricks/log4jtask/Shape.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eBricks/log4jtask/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eBricks/log4jtask/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eBricks/log4jtask/Circle.java" />
         <option value="$PROJECT_DIR$/logs/XMLLogs.log" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j2.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eBricks/log4jtask/Main.java" />
       </list>
     </option>
   </component>
@@ -128,6 +133,7 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -185,6 +191,9 @@
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -372,8 +381,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eBricks/log4jtask/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="289">
+          <caret line="23" column="44" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
